@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing an AI Flashcards Generator<br>🌱 I’m currently learning AI, Web Development
+🔭 I’m currently working on developing an app that integrates GitHub and Jira<br>🌱 I’m currently learning AI, Web Development
 
 
 ## 🌐 Socials:
